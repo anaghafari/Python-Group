@@ -15,7 +15,7 @@ mock up provided by Anahita and Elsa
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark2.png?raw=true)
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark3.png?raw=true)
 [Markdown](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman)
-
+![Running Diagram](https://github.com/anaghafari/Python-Group/blob/main/Images/Diagram.png?raw=true)
 
 
 ### Tic-Tac-Toe
@@ -27,5 +27,4 @@ Graphic based OOP Tic-Tac-Toe
 
 
 tic-tac-toe class diagram
-
 ![tictactoe class diagram](https://user-images.githubusercontent.com/111666669/223174625-04191f75-6f7f-4b25-9d42-7555be281f9a.jpg)
