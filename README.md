@@ -5,7 +5,7 @@
 ### Hangman
 Graphic based OOP Hangman
 
-### This is our version hangman, unlike other versions of hangman instead of adding limbs until you lose, the water rises until you lose. Also there are different difficulties available.
+### This is our version of hangman, unlike other versions of hangman instead of adding limbs until you lose, the water rises until you lose. There are also different difficulties available.
 
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman.png?raw=true)
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman2.png?raw=true)
@@ -17,6 +17,6 @@ Graphic based OOP Hangman
 ### Tic-Tac-Toe
 Graphic based OOP Tic-Tac-Toe
 
-### This is our version of tic-tac-toe ours is different from others because we wanted ours to be more challenging and require more strategy so it is 4x4 instead of the typical 3x3.
+### This is our version of tic-tac-toe, ours is different from others because we wanted ours to be more challenging and require more strategy so it is 4x4 instead of the typical 3x3.
 
 ![Running Tic-Tac-Toe](https://github.com/anaghafari/Python-Group/blob/main/Images/tic-tac-toe.drawio.png?raw=true)
