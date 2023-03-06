@@ -8,12 +8,12 @@ Kaitlyn Cao-Devolper
 ### Hangman
 Graphic based OOP Hangman
 
-### This is our version of hangman, unlike other versions of hangman instead of adding limbs until you lose, the water rises until you lose. There are also different difficulties available.
+### This is our version of hangman, unlike other versions of hangman instead of adding limbs until you lose, the water rises until you lose. There are also different difficulties available, and there is a shark.
 
 mock up provided by Anahita and Elsa
-![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman.png?raw=true)
-![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman2.png?raw=true)
-![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Handman3.png?raw=true)
+![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark.png?raw=true)
+![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark2.png?raw=true)
+![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark3.png?raw=true)
 [Markdown](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman)
 
 
