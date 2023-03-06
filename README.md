@@ -1,12 +1,16 @@
 # Python-Group
 
-
+Anahita Ghafari-Tester and Project manager
+Daniel Qian-Multimedia Creator/Implementer 
+Elsa Bringard-Designer
+Kaitlyn Cao-Devolper
 
 ### Hangman
 Graphic based OOP Hangman
 
 ### This is our version of hangman, unlike other versions of hangman instead of adding limbs until you lose, the water rises until you lose. There are also different difficulties available.
 
+mock up provided by Anahita and Elsa
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman.png?raw=true)
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Hangman2.png?raw=true)
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/Handman3.png?raw=true)
