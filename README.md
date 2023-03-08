@@ -1,9 +1,16 @@
 # Python-Group
 
 Anahita Ghafari-Tester and Project manager
+
+
 Daniel Qian-Multimedia Creator/Implementer 
+
+
 Elsa Bringard-Designer
+
+
 Kaitlyn Cao-Devolper
+
 
 ### Hangman
 Graphic based OOP Hangman
