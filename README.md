@@ -26,14 +26,3 @@ mock up provided by Anahita and Elsa
 [Markdown](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman)
 ![Running Diagram](https://github.com/anaghafari/Python-Group/blob/main/Images/Class%20diagram%20hangman%20aqua.png?raw=true)
 
-### Tic-Tac-Toe
-Graphic based OOP Tic-Tac-Toe
-
-### This is our version of tic-tac-toe, ours is different from others because we wanted ours to be more challenging and require more strategy so it is 4x4 instead of the typical 3x3.
-
-mock up provided by Daniel
-![Running Tic-Tac-Toe](https://github.com/anaghafari/Python-Group/blob/main/Images/tic-tac-toe.drawio.png?raw=true)
-
-
-tic-tac-toe class diagram
-![tictactoe class diagram](https://user-images.githubusercontent.com/111666669/223174625-04191f75-6f7f-4b25-9d42-7555be281f9a.jpg)
