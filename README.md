@@ -25,5 +25,5 @@ mock up provided by Anahita and Elsa
 ![Running Hangman](https://github.com/anaghafari/Python-Group/blob/main/Images/shark3.png?raw=true)
 updated mark down provided by Elsa Bringard
 ![Markdown](https://github.com/anaghafari/Python-Group/blob/main/Images/Class%20diagram%20hangman%20aqua.png?raw=true)
-![Running Diagram](https://github.com/anaghafari/Python-Group/blob/main/Images/Class%20diagram%20hangman%20aqua.png?raw=true)
+
 
