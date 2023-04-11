@@ -9,7 +9,7 @@ Daniel Qian-Multimedia Creator/Implementer
 Elsa Bringard-Designer
 
 
-Kaitlyn Cao-Developer
+Kaitlyn Cao-Developer/Coder
 
 
 
