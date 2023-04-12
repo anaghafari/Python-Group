@@ -34,7 +34,5 @@ levels provided by Kaitlyn
 [source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/levels.py)
 
 words Provided by Kaitlyn, Daniel, and Anahita
-[source code]
-
-
+[source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/words.py)
 
