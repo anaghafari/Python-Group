@@ -28,11 +28,11 @@ updated mark down provided by Elsa Bringard
 
 
 main provided by Elsa Bringard, and Anahita Ghafari
-[source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/main%20(1).py)
+[,Source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/main%20(1).py)
 
 levels provided by Kaitlyn Cao
-[source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/levels.py)
+[,Source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/levels.py)
 
 words Provided by Kaitlyn Cao, Daniel Qian, and Anahita Ghafari
-[source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/words.py)
+[,Source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/words.py)
 
