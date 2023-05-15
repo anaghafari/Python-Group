@@ -26,7 +26,6 @@ mock up provided by Anahita Ghafari and Elsa Bringard
 updated mark down provided by Elsa Bringard
 ![Markdown](https://github.com/anaghafari/Python-Group/blob/main/Images/Class%20diagram%20hangman%20aqua.png?raw=true)
 
-FINAL GAME
 
 
 
@@ -38,4 +37,8 @@ levels provided by Kaitlyn Cao,
 
 words Provided by Kaitlyn Cao, Daniel Qian, and Anahita Ghafari,
 [Source code](https://github.com/anaghafari/Python-Group/blob/main/src/Hangman/Phase%20two/words.py)
+
+
+
+###FINAL GAME
 
