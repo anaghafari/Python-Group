@@ -41,6 +41,7 @@ words Provided by Kaitlyn Cao, Daniel Qian, and Anahita Ghafari,
 
 # FINAL GAME/Phase 3
 ## We have 2 versions of our Hangman Aqua Game. We have one with graphics and one with out graphics
+### Coding primarly done by Kaitlyn and Anahita, with help of Elsa and Daniel. Graphics provided by Elsa, and Ana
 
 ### Graphics Hangman Aqua
 [Source code](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman/hangmanaqua)
