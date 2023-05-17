@@ -41,9 +41,7 @@ words Provided by Kaitlyn Cao, Daniel Qian, and Anahita Ghafari,
 
 
 # FINAL GAME/Phase 3
-
 ## We have 2 versions of our Hangman Aqua Game. We have one with graphics and one with out graphics
-
 
 ### Graphics Hangman Aqua
 [Source code]()
