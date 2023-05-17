@@ -44,12 +44,12 @@ words Provided by Kaitlyn Cao, Daniel Qian, and Anahita Ghafari,
 
 
 ### Graphics Hangman Aqua
-## Coded mainly by Kaitlyn Cao with help of Daniel Qian, graphics done by Elsa Bringard
+###### Coded mainly by Kaitlyn Cao with help of Daniel Qian, graphics done by Elsa Bringard
+
 [Source code](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman/hangmanaqua)
 
 
-
-
 ### No Graphics Hangman Aqua
-## Coded mainly by Anahita Ghafari, with help of Elsa Bringard
+###### Coded mainly by Anahita Ghafari, with help of Elsa Bringard
+
 [Source code](https://github.com/anaghafari/Python-Group/tree/main/src/Hangman/Hangman-aqua)
